@@ -186,20 +186,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <scope>test</scope>
   </dependency>
 	<dependency>
-    	<groupId>io.github.bonigarcia</groupId>
+	<groupId>io.github.bonigarcia</groupId>
     	<artifactId>webdrivermanager</artifactId>
    		 <version>5.6.3</version>
 	</dependency>
 
-	<dependency>
-		<groupId>RestAssuredPawan</groupId>
-		<artifactId>RestAssuredPawan</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
-	<dependency>
-		<groupId>DemoOnExtentReporter</groupId>
-		<artifactId>DemoOnExtentReporter</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
   </dependencies>
 </project>
