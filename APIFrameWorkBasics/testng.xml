@@ -8,4 +8,4 @@
       <class name="com.httpmethodsbasic.DELETEMethod"/>
     </classes>
   </test> <!-- Test -->
-</suite> <!-- Suite -->
+</suite> 
