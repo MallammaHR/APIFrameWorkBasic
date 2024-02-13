@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.httpmethodsbasic.GETResponseBody">
+      <class name="com.json.JSONschemaValidatorDemo">
         <methods>
-          <include name="verifyResponseBody"/>
+          <include name="test_A"/>
         </methods>
-      </class> <!-- com.httpmethodsbasic.GETResponseBody -->
+      </class> <!-- com.json.JSONschemaValidatorDemo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
